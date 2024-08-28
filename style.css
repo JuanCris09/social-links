@@ -96,6 +96,10 @@ body{
     color: var(--font-color);
 }
 
+body footer a{
+    color: var(--place-color);
+}
+
 @media (max-width: 376px ){
      .content-main{
         width: 17rem;
